@@ -19,8 +19,6 @@ Created visuals for data analysis to help executives with effective decision mak
 [TATA Dashboard.png]( https://github.com/reuel97/Tata-Data-Visualisation-Empowering-Business-with-Effective-Insights/blob/main/TATA%20Dashboard.png)
 
 ## Result/ Presentation
-
- **Key Findings**
  
 [Choosing the Right Visuals.docx]( https://github.com/reuel97/Tata-Data-Visualisation-Empowering-Business-with-Effective-Insights/blob/main/Choosing%20the%20Right%20Visuals.docx)
 
