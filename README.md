@@ -20,9 +20,9 @@ Created visuals for data analysis to help executives with effective decision mak
 
 ## Result/ Presentation
  
-[Choosing the Right Visuals.docx]( https://github.com/reuel97/Tata-Data-Visualisation-Empowering-Business-with-Effective-Insights/blob/main/Choosing%20the%20Right%20Visuals.docx)
+[Choosing the Right Visuals.pdf](https://github.com/reuel97/Tata-Data-Visualisation-Empowering-Business-with-Effective-Insights/blob/main/Choosing%20the%20Right%20Visuals.pdf)
 
-[Questions for the CEO and CMO.docx]( https://github.com/reuel97/Tata-Data-Visualisation-Empowering-Business-with-Effective-Insights/blob/main/Questions%20for%20the%20CEO%20and%20CMO.docx)
+[Questions for the CEO and CMO.pdf](https://github.com/reuel97/Tata-Data-Visualisation-Empowering-Business-with-Effective-Insights/blob/main/Questions%20for%20the%20CEO%20and%20CMO.pdf)
 
 ## Certification
 
